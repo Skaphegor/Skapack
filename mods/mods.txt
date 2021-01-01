@@ -1,12 +1,14 @@
-    abnormals_core-1.16.4-3.0.4.jar
+    abnormals_core-1.16.4-3.0.5.jar
     AmbientSounds_v3.1.4_mc1.16.4.jar
     AppleSkin-mc1.16.2-forge-1.0.14.jar
     appliedenergistics2-8.2.0-beta.1.jar
     Aquaculture-1.16.4-2.1.10.jar
     archers_paradox-1.16.3-1.1.0.jar
     Artifacts-1.16.4-2.7.3.jar
+    atmospheric-1.16.4-3.0.0.jar
     AttributeFix-1.16.4-9.0.2.jar
     Autofish-0.9.1-forge-mc1.16.4.jar
+    baubley-heart-canisters-1.16.4-1.0.0.jar
     BedBenefits-1.16.4-4.0.2.jar
     BetterHunger-1.16.4-5.0.2.jar
     BetterThanMending-1.5.1.jar
@@ -16,9 +18,10 @@
     borderless-1.16.4-1.1.0.jar
     Botania-1.16.4-410.jar
     BotaniaAdditionsMC1.16.4-1.0.4.jar
-    BotanyPots-1.16.4-6.0.11.jar
-    BotanyTrees-1.16.4-2.0.5.jar
+    BotanyPots-1.16.4-6.0.12.jar
+    BotanyTrees-1.16.4-2.0.6.jar
     Bountiful+Baubles+FORGE-1.16.3-0.0.2.jar
+    branders-spawnermod-1.16.4-1.7.9.jar
     byg-1.1.5.jar
     CapabilityProxy-1.16.4-2.1.8.jar
     chiselsandbits-0.2.8-RELEASE.jar
@@ -31,7 +34,7 @@
     CreativeCore_v2.0.10_mc1.16.4.jar
     CTM-MC1.16.1-1.1.2.6.jar
     curioofundying-forge-1.16.4-5.1.0.0.jar
-    curios-forge-1.16.4-4.0.3.0.jar
+    curios-forge-1.16.4-4.0.3.3.jar
     Cursed-1.16.4-6.0.2.jar
     CyclopsCore-1.16.4-1.9.3.jar
     DungeonCrawl-1.16.3-2.2.2.jar
@@ -43,6 +46,7 @@
     enchantwithmob-1.16.4-2.1.1.jar
     enderchests-1.16-1.7.5.jar
     endercompass-1.5-1.16.4.jar
+    endergetic-1.16.4-3.0.0.jar
     endertanks-1.16-1.9.3.jar
     ensorcellation-1.16.3-1.1.1.jar
     EvilCraft-1.16.4-1.0.3.jar
@@ -60,12 +64,12 @@
     ImmersivePetroleum-1.16.4-3.1.0-2.jar
     industrial-foregoing-1.16.4-3.2.7-7d95990.jar
     infernalmobs-1.16.2.1.jar
-    inventorypets-2.0.8.jar
+    inventorypets-2.0.9.jar
     inventorysorter-1.16.1-18.1.0.jar
     invtweaks-1.16.2-1.0.0.jar
     ironchest-1.16.4-11.2.10.jar
     JAOPCA-1.16.4-3.4.0.2.jar
-    jei-1.16.4-7.6.0.62.jar
+    jei-1.16.4-7.6.1.63.jar
     jeiintegration_1.16.4-6.1.1.11.jar
     MagmaMonsters-0.5.3.jar
     Mantle-1.16.4-1.6.43.jar
@@ -95,6 +99,7 @@
     rftoolspower-1.16-3.0.8.jar
     rftoolsstorage-1.16-2.0.8.jar
     rftoolsutility-1.16-3.0.19.jar
+    savageandravage-1.16.4-3.0.0.jar
     scuba-gear-1.16.4-1.0.1.jar
     shetiphiancore-1.16-3.8.4.jar
     skinned_lanterns-1.16.4-1.3.1.jar
@@ -108,7 +113,7 @@
     theoneprobe-1.16-3.0.6.jar
     thermal_cultivation-1.16.3-1.1.3.jar
     thermal_expansion-1.16.3-1.1.4.jar
-    thermal_foundation-1.16.3-1.1.4.jar
+    thermal_foundation-1.16.3-1.1.5.jar
     thermal_innovation-1.16.3-1.1.0.jar
     thermal_locomotion-1.16.3-1.1.3.jar
     titanium-1.16.4-3.2.4.jar
@@ -122,10 +127,11 @@
     towers_of_the_wild-1.16.4-2.0.1.jar
     Trapcraft-1.16.4-3.2.2.jar
     trashcans-1.0.5-mc1.16.4.jar
-    TravelersBackpack-1.16.4-5.3.3.jar
-    traverse-1.16.4-0.4.3.4.jar
+    TravelersBackpack-1.16.4-5.3.4.jar
+    traverse-1.16.4-0.4.3.6.jar
     ultimate_unicorn_mod-1.16.4-1.5.17.jar
     Undefeatables+1.0.jar
+    upgrade_aquatic-1.16.4-3.0.0.jar
     valhelsia_structures-16.0.5.jar
     Waystones_1.16.3-7.3.1.jar
     ZeroCore2-1.16.4-2.0.16.jar
