@@ -45,7 +45,7 @@
 
 	[worldgeneration.infested_nether_soul_sand]
 		#How many veins per chunk.
-		veinsPerChunk = 25
+		veinsPerChunk = 5
 
 	[worldgeneration.dark_temple]
 		#Maximum blockState height at which a dark temple can spawn.
@@ -59,11 +59,11 @@
 
 	[worldgeneration.infested_nether_nether_bricks]
 		#How many veins per chunk.
-		veinsPerChunk = 25
+		veinsPerChunk = 5
 
 	[worldgeneration.infested_nether_netherrack]
 		#How many veins per chunk.
-		veinsPerChunk = 25
+		veinsPerChunk = 5
 
 [core]
 
